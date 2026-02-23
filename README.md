@@ -18,7 +18,7 @@ Berikut merupakan fitur dari aplikasi "Warung Makan Purwadhika":
     - Menambah entri data baru sesuai dengan input dari user
 3. Menampilkan Menu
     - Menampilkan entitas data yang tersimpan di *dictionary* secara spesifik
-    - Data ditampilkan dalam format tabel dengan memanfaatkan *library* ```python tabulate```
+    - Data ditampilkan dalam format tabel dengan memanfaatkan *library* ```tabulate```
 5. Perbaharui Menu*
 6. Recycle Bin*
     - Lihat Recycle Bin
